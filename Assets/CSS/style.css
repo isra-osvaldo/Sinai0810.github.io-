@@ -157,8 +157,10 @@
     text-transform: uppercase;
   }
 
-  .cursos {
-    font-size: 1.62rem }
+  /* .cursos {
+    font-size: 1.62rem 
+  } */
+
 
   .text-center {
     display: flex; 
